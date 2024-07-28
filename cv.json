@@ -1,0 +1,166 @@
+{
+    "basics": {
+      "name": "Alejandro Castro Torres.",
+      "label": "Estudiante de Ing. de Sistemas",
+      "image": "https://avatars.githubusercontent.com/u/127699508?s=400&u=0bc9819609c19f5c32722748ced7133cdf011063&v=4",
+      "email": "alejocastro277@gmail.com",
+      "phone": "+57 3142713313",
+      "url": "https://johndoe.com",
+      "summary": "Aca va mcuho texo",
+      "location": {
+        "city": "Medellín",
+        "countryCode": "COL",
+        "region": "Colombia"
+      },
+      "profiles": [{
+        "network": "GitHub",
+        "username": "AlejoCastroT",
+        "url": "https://github.com/AlejoCastroT"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Alejandro Castro",
+        "url": "https://www.linkedin.com/in/alejandro-castro-32ab94231/"
+      }
+    ]
+    },
+    "work": [{
+      "name": "Empresas",
+      "position": "Jefe",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Descripcion…",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Universidad",
+      "url": "https://institution.com/",
+      "area": "Ing. de Sistemas",
+      "studyType": "Bachelor",
+      "startDate": "2022-01-01",
+      "endDate": "2024-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo web","Fronted"
+      ]
+    },
+  {
+    "name":"CSS",
+    "level":"Medium",
+    "keywords": [
+        "Desarrollo web","Fronted", "Diseño Responsive"
+      ]
+  },
+  {
+    "name":"Tailwind",
+    "level":"Medium",
+    "keywords": [
+        "Desarrollo web","Fronted", "Diseño Responsive"
+      ]
+  },
+  {
+    "name":"Booststrap",
+    "level":"Medium",
+    "keywords": [
+        "Desarrollo web","Fronted", "Diseño Responsive"
+      ]
+  },
+  {
+    "name":"JavaScript",
+    "level":"Medium",
+    "keywords": [
+        "Desarrollo web"
+      ]
+  },
+  {
+    "name":"React",
+    "level":"Medium",
+    "keywords": [
+        "Desarrollo web","Fronted", "Diseño Responsive"
+      ]
+  },
+  {
+    "name":"Node",
+    "level":"Medium",
+    "keywords": [
+        "Desarrollo web"
+      ]
+  },
+  {
+    "name":"MySQL",
+    "level":"Medium",
+    "keywords": [
+        "Desarrollo web"
+      ]
+  },
+  {
+    "name":"Git",
+    "level":"Medium",
+    "keywords": [
+        "Desarrollo web"
+      ]
+  },
+  {
+    "name":"GitHub",
+    "level":"Medium",
+    "keywords": [
+        "Desarrollo web"
+      ]
+  }],
+    "projects": [{
+      "url": "https://example.com",
+      "description": "Descripción del proyecto",
+      "highlights": ["Destacado 1", "Destacado 2"],
+      "name": "Nombre del Proyecto",
+      "isActive": true,
+      "github": "https://github.com/example"
+    },
+    {
+      "url": "https://example.com",
+      "description": "Descripción del proyecto",
+      "highlights": ["Destacado 1", "Destacado 2"],
+      "name": "Nombre del Proyecto",
+      "isActive": true,
+      "github": "https://github.com/example"
+    }
+  ]}
