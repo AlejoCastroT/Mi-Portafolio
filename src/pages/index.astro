@@ -7,23 +7,40 @@ import Hero from '../components/sections/Hero.astro';
 import Projects from '../components/sections/Projects.astro';
 import Skills from '../components/sections/Skills.astro';
 import KeyboardManager from '@/components/KeyboardManager.astro';
+import SkillsBlan from '@/components/sections/SkillsBlan.astro';
 ---
 
 <Layout title="Alejandro Castro T.">
-	<main>
+	<main transition-style="in:custom:circle-swoop">
 		<Hero/>
 		<Abaout/>
 		<Expereiencie/>
 		<Education/>
 		<Projects/>
 		<Skills/>
+		<SkillsBlan/>
 	</main>
 	
 	<KeyboardManager/>
 </Layout>
 
 <style>
-	main{
+	@import "transition-style";
+	@keyframes in-circle-swoop {
+		from {
+			clip-path: var(--circle-top-right-out);
+		}
+		to {
+			clip-path: var(--circle-bottom-right-in);
+		}
+	}
+	  
+	[transition-style="in:custom:circle-swoop"] {
+		--transition__duration: 5s;
+		animation-name: in-circle-swoop;
+	}
+
+	main {
 		padding: 4rem;
 		margin: auto;
 		width: 100%;

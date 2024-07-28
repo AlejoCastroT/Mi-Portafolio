@@ -6,7 +6,7 @@
       "email": "alejocastro277@gmail.com",
       "phone": "+57 3142713313",
       "url": "https://johndoe.com",
-      "summary": "Aca va mcuho texo",
+      "summary": "Soy un estudiante de Ingeniería de Sistemas con una fuerte pasión por el desarrollo web. Tengo experiencia en tecnologías como HTML, CSS, JavaScript y React, y estoy buscando una oportunidad para aplicar y expandir mis habilidades en un entorno profesional. Soy un aprendiz rápido y me comprometo a contribuir de manera efectiva a un equipo dinámico.",
       "location": {
         "city": "Medellín",
         "countryCode": "COL",
@@ -25,57 +25,39 @@
     ]
     },
     "work": [{
-      "name": "Empresas",
-      "position": "Jefe",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Descripcion…",
-      "highlights": [
-        "Started the company"
-      ]
-    }],
-    "volunteer": [{
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
+      "name": "Colegio adventista de Sogamoso CADES",
+      "position": "Alexander Castro • 3132466896",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Asistente de archivos tanto digitales como físicos. Mi enfoque fue asegurar que la información esté bien categorizada, accesible y correctamente archivada, mejorando la eficiencia operativa y facilitando el trabajo en equipo. ",
+      "url":"https://colegiocades.com/"
     }],
     "education": [{
-      "institution": "Universidad",
-      "url": "https://institution.com/",
-      "area": "Ing. de Sistemas",
+      "institution": "Colegio Adventista Emmanuel",
+      "area": "primaria",
+      "studyType": "primaria",
+      "startDate": "2011-01-01",
+      "endDate": "2016-01-01" 
+    },{
+      "institution": "Colegio Adventista Emmanuel",
+      "area": "Bachillerato",
       "studyType": "Bachelor",
+      "startDate": "2016-01-01",
+      "endDate": "2018-01-01"
+    },
+    {
+      "institution": "Colegio Fe y Alegria",
+      "area": "Bachillerato",
+      "studyType": "Bachelor",
+      "startDate": "2018-01-01",
+      "endDate": "2021-01-01"
+    },
+    {
+      "institution": "Universidad Adventista UNAC",
+      "area": "Ing. De Sistemas",
+      "porceso":"En porceso",
       "startDate": "2022-01-01",
-      "endDate": "2024-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    }],
-    "awards": [{
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }],
-    "certificates": [{
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }],
-    "publications": [{
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
+      "enddate": ""
     }],
     "skills": [{
       "name": "HTML",
@@ -148,19 +130,55 @@
       ]
   }],
     "projects": [{
-      "url": "https://example.com",
-      "description": "Descripción del proyecto",
-      "highlights": ["Destacado 1", "Destacado 2"],
-      "name": "Nombre del Proyecto",
+      "url": "https://github.com/AlejoCastroT/AgendaTelefonica",
+      "description": "los datos los traemos de una api y mostramos la información en una tabla, podemos agregar un numero nuevo a la api y mostrarla en la tabla con metodo GET y POST.",
+      "highlights": ["React", "JavaScript"],
+      "name": "Agenda telefonica",
       "isActive": true,
-      "github": "https://github.com/example"
+      "github": "https://github.com/AlejoCastroT/AgendaTelefonica"
     },
     {
-      "url": "https://example.com",
-      "description": "Descripción del proyecto",
-      "highlights": ["Destacado 1", "Destacado 2"],
-      "name": "Nombre del Proyecto",
+      "url": "https://incandescent-frangipane-3efeca.netlify.app/",
+      "description": "una pagina informativa sobre los o hábitos saludables.",
+      "highlights": ["React", "JavaScript","Booststrap"],
+      "name": "Habitos saludables",
       "isActive": true,
-      "github": "https://github.com/example"
+      "github": "https://github.com/AlejoCastroT/habitos-saludables?tab=readme-ov-file"
+    },
+    {
+      "url": "https://github.com/AlejoCastroT/Login-DataBase",
+      "description": "Un Login y un Signup utilizando una base de datos para registro de usuarios",
+      "highlights": ["HTML", "CSS","PHP"],
+      "name": "Login Database",
+      "isActive": true,
+      "github": "https://github.com/AlejoCastroT/Login-DataBase"
+    },
+    {
+      "url": "https://66a6b22576df8d952d5a276a--derechosmuertedigna.netlify.app/",
+      "description": "Se tarta de una Web informativa sobre la atencion al derecho a morir con dignidad,en el municipio de Girardota.",
+      "highlights": ["Ract", "JavaScript","Booststrap"],
+      "name": "Portocolo muerte digna Girardota",
+      "isActive": true,
+      "github": "https://github.com/AlejoCastroT/protocolo-muerte-digna-girardota"
+    },
+    {
+      "url": "https://66a6b30622508289f3ad552a--galeriavideos.netlify.app/",
+      "description": "Muestra los videos que elijas en la web con un titulo y su descripción",
+      "highlights": ["Ract", "JavaScript","CSS"],
+      "name": "Galeria de videos",
+      "isActive": true,
+      "github": "https://github.com/AlejoCastroT/GaleriaVideos"
     }
-  ]}
+  ],
+  "skillsBLA": [{
+      "name": "Resolución de problemas",
+      "level": "Master"
+    },
+    {
+      "name": "Gestión del tiempo",
+      "level": "Master"
+    },
+    {
+      "name": "Trabajo en equipo",
+      "level": "Master"
+    }]}
