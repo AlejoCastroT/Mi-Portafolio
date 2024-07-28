@@ -34,8 +34,8 @@
     }],
     "education": [{
       "institution": "Colegio Adventista Emmanuel",
-      "area": "primaria",
-      "studyType": "primaria",
+      "area": "Primaria",
+      "studyType": "Primaria",
       "startDate": "2011-01-01",
       "endDate": "2016-01-01" 
     },{
@@ -55,7 +55,7 @@
     {
       "institution": "Universidad Adventista UNAC",
       "area": "Ing. De Sistemas",
-      "porceso":"En porceso",
+      "porceso":"En proceso",
       "startDate": "2022-01-01",
       "enddate": ""
     }],
@@ -131,15 +131,15 @@
   }],
     "projects": [{
       "url": "https://github.com/AlejoCastroT/AgendaTelefonica",
-      "description": "los datos los traemos de una api y mostramos la información en una tabla, podemos agregar un numero nuevo a la api y mostrarla en la tabla con metodo GET y POST.",
+      "description": "Los datos los traemos de una api y mostramos la información en una tabla, podemos agregar un numero nuevo a la api y mostrarla en la tabla con método GET y POST.",
       "highlights": ["React", "JavaScript"],
-      "name": "Agenda telefonica",
+      "name": "Agenda telefónica",
       "isActive": true,
       "github": "https://github.com/AlejoCastroT/AgendaTelefonica"
     },
     {
       "url": "https://incandescent-frangipane-3efeca.netlify.app/",
-      "description": "una pagina informativa sobre los o hábitos saludables.",
+      "description": "Una pagina informativa sobre los 8 hábitos saludables.",
       "highlights": ["React", "JavaScript","Booststrap"],
       "name": "Habitos saludables",
       "isActive": true,
@@ -155,9 +155,9 @@
     },
     {
       "url": "https://66a6b22576df8d952d5a276a--derechosmuertedigna.netlify.app/",
-      "description": "Se tarta de una Web informativa sobre la atencion al derecho a morir con dignidad,en el municipio de Girardota.",
+      "description": "Se tarta de una Web informativa sobre la atención al derecho a morir con dignidad,en el municipio de Girardota.",
       "highlights": ["Ract", "JavaScript","Booststrap"],
-      "name": "Portocolo muerte digna Girardota",
+      "name": "Protocolo Muerte Digna Girardota",
       "isActive": true,
       "github": "https://github.com/AlejoCastroT/protocolo-muerte-digna-girardota"
     },
