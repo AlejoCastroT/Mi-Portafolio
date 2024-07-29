@@ -27,8 +27,8 @@
     "work": [{
       "name": "Colegio adventista de Sogamoso CADES",
       "position": "Alexander Castro • 3132466896",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
+      "startDate": "2020-01-01",
+      "endDate": "2021-01-01",
       "summary": "Asistente de archivos tanto digitales como físicos. Mi enfoque fue asegurar que la información esté bien categorizada, accesible y correctamente archivada, mejorando la eficiencia operativa y facilitando el trabajo en equipo. ",
       "url":"https://colegiocades.com/"
     }],
@@ -36,27 +36,27 @@
       "institution": "Colegio Adventista Emmanuel",
       "area": "Primaria",
       "studyType": "Primaria",
-      "startDate": "2011-01-01",
-      "endDate": "2016-01-01" 
+      "startDate": "2010-01-01",
+      "endDate": "2015-01-01" 
     },{
       "institution": "Colegio Adventista Emmanuel",
       "area": "Bachillerato",
       "studyType": "Bachelor",
-      "startDate": "2016-01-01",
-      "endDate": "2018-01-01"
+      "startDate": "2015-01-01",
+      "endDate": "2017-01-01"
     },
     {
       "institution": "Colegio Fe y Alegria",
       "area": "Bachillerato",
       "studyType": "Bachelor",
-      "startDate": "2018-01-01",
-      "endDate": "2021-01-01"
+      "startDate": "2017-01-01",
+      "endDate": "2020-01-01"
     },
     {
       "institution": "Universidad Adventista UNAC",
       "area": "Ing. De Sistemas",
       "porceso":"En proceso",
-      "startDate": "2022-01-01",
+      "startDate": "2021-01-01",
       "enddate": ""
     }],
     "skills": [{
