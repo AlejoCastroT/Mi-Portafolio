@@ -139,7 +139,7 @@
     },
     {
       "url": "https://incandescent-frangipane-3efeca.netlify.app/",
-      "description": "Una pagina informativa sobre los 8 hábitos saludables.",
+      "description": "Una página informativa sobre los 8 hábitos saludables.",
       "highlights": ["React", "JavaScript","Booststrap"],
       "name": "Habitos saludables",
       "isActive": true,
@@ -155,7 +155,7 @@
     },
     {
       "url": "https://66a6b22576df8d952d5a276a--derechosmuertedigna.netlify.app/",
-      "description": "Se tarta de una Web informativa sobre la atención al derecho a morir con dignidad,en el municipio de Girardota.",
+      "description": "Se trata de una Web informativa sobre la atención al derecho a morir con dignidad,en el municipio de Girardota.",
       "highlights": ["Ract", "JavaScript","Booststrap"],
       "name": "Protocolo Muerte Digna Girardota",
       "isActive": true,
@@ -163,7 +163,7 @@
     },
     {
       "url": "https://66a6b30622508289f3ad552a--galeriavideos.netlify.app/",
-      "description": "Muestra los videos que elijas en la web con un titulo y su descripción",
+      "description": "Muestra los videos que elijas en la web con un título y su descripción",
       "highlights": ["Ract", "JavaScript","CSS"],
       "name": "Galeria de videos",
       "isActive": true,
